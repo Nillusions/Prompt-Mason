@@ -1,0 +1,8 @@
+{
+  "name": "prompt-mason-secure",
+  "version": "1.0.0",
+  "description": "Secure proxy for PromptMason",
+  "dependencies": {
+    "groq-sdk": "^0.3.2"
+  }
+}
